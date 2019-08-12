@@ -77,6 +77,28 @@ header styles
 .nav li {
     display: inline;
     Padding: 0px 10px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+
+}
+
+.nav li a {
+    color: #777777
+}
+/*======================================
+Combine and clean these Anchor styles
+========================================
+*/
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4aaaa5;
 }
 
 .headerbox {
@@ -86,11 +108,12 @@ header styles
 
 .logo {
     background-color: #4aaaa5;
-    width: 200px;
+    width: 210px;
     color: #ffffff;
     float: left; 
     font-size: 25px;
     padding: 25px 25px;
+    font-weight: bold
 
 
 }
@@ -106,6 +129,16 @@ main content styles
     margin: auto;
     margin-top: 25px;
     padding: 25px;
+}
+
+.display h2 {
+  color: #4aaaa5;
+  font-size: 25px;
+  font-weight: bold
+}
+
+hr {
+  border: 2px solid #dddddd;
 }
 
 .mainfooter {
