@@ -1,0 +1,10 @@
+body {
+	background-image: url("../images/memphis-mini.png");
+    color: #777777;
+    font: 300 16px/22px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.mainheader {
+    background-color: #ffffff;
+    border-bottom: thick solid #cccccc;
+}
