@@ -161,3 +161,26 @@ hr {
 small { 
   color: #dddddd;
 }
+
+/*===============================================
+Contact Page
+=================================================
+*/
+
+.contact-group input, .contact-group textarea {
+  width: 100%;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  height: 150px;
+}
+
+.sendbtn {
+  border: 0;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px;
+}
