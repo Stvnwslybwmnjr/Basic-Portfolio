@@ -200,8 +200,10 @@ Portfolio Page
   margin-right: 25px;
   margin-top: 25px;
   float: left;
+  
 }
 
 .porttabs {
    height: 775px;
+   position: relative;
 }
