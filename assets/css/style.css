@@ -130,6 +130,7 @@ main content styles
     margin-top: 25px;
     margin-bottom: 100px;
     padding: 25px;
+    line-height: 2
 }
 
 .display h2 {
@@ -186,4 +187,21 @@ textarea {
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px;
+}
+
+/*===============================================
+Portfolio Page
+=================================================
+*/
+
+.hangman, .rolepg, .trivia, .widget, .roshambo {
+  width: 300px;
+  height: 200px;
+  margin-right: 25px;
+  margin-top: 25px;
+  float: left;
+}
+
+.porttabs {
+   height: 775px;
 }
