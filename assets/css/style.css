@@ -199,7 +199,7 @@ Portfolio Page
   height: 200px;
   margin-right: 25px;
   margin-top: 25px;
-  float: left;
+ 
   
 }
 
@@ -207,3 +207,15 @@ Portfolio Page
    height: 775px;
 }
 
+.container {
+  position: relative;
+}
+
+.wordgame {
+  position: absolute;
+  bottom: 510px;
+  padding-left: 115px;
+  padding-right: 115px;
+  background-color: #4aaaa5;
+  color: #ffffff;
+}
